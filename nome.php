@@ -1,2 +1,5 @@
 <?php 
-echo "este é um teste com git";
+
+$valor  = "Aprendendo esta porra , porque se não vou me fuder";
+
+echo $valor;
